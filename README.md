@@ -8,4 +8,4 @@ Javascript
 
 ## Link para o projeto no ar
 
-🔗 link:
+🔗 link: https://edubarros101.github.io/jogo_adivinhacao/
